@@ -1,0 +1,13 @@
+///////////////////////////////////////////////////////////////////////////////
+// File : goodcrc_frames.h
+// Contains: USB Power delivery pre-encoded good crc frames
+//
+// Written by: Jean-François DEL NERO
+//
+// Change History (most recent first):
+///////////////////////////////////////////////////////////////////////////////
+
+#define GOODSRC_FRAME_SIZE 38
+
+extern const unsigned char goodcrcfrm[];
+
